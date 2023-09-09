@@ -1,1 +1,0 @@
-This script renames all video files with extensions ".mp4", ".avi" and ".mkv" in increasing numbers, starting with 1. The script uses a "for" loop to go through all files with the specified extensions and renames each file with a numeric name using a counter variable.
